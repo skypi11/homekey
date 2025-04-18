@@ -361,5 +361,10 @@ gap: 35px;
   footer > div {
     flex-direction: column;
   }
+  nav ul{
+    gap: 0 ;
+    padding: 0;
+    justify-content: space-around;
+  }
 }
 
