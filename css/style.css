@@ -344,10 +344,22 @@ aside a {
   }
   footer > div{
 padding: 15px;
-gap: 20px;
+gap: 35px;
   }
   main p{
     margin: 17px 0 24px;
+  }
+  header nav{
+    border-bottom: 1px solid var(--grey);
+    margin-bottom: 11px;
+    padding-bottom: 10px;
+  }
+  header > a {
+    display: flex;
+    justify-content: center;
+  }
+  footer > div {
+    flex-direction: column;
   }
 }
 
