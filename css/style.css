@@ -305,3 +305,8 @@ aside a{
   scale: 1.02;
   filter: grayscale();
 }
+/* format tablette   */
+@media screen and (max-width: 1024px){
+  
+
+}
